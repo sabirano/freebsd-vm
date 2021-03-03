@@ -1,3 +1,5 @@
+- name: FreeBSD-vm
+  uses: vmactions/freebsd-vm@v0.1.2
 
 name: Test
 
